@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[PwdStr] Migration to a more simpler storage"
+title:  "[PwdStr] Migration to a simpler storage"
 description: Adding support for external store management
 categories:
 - blog
